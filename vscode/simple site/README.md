@@ -1,4 +1,4 @@
 # Animais em conjunto
 
 # Local: Brasil e Alemanha
-# Time: 
+# Time: barata, lagarto, jacaré
