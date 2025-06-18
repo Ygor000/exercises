@@ -1,5 +1,6 @@
 # Animais em conjunto
 
-# Local: Brasil e Alemanha
-# Time: jaguatirica, capivara, tatu
-# Time: barata, besouro, formiga
+## Local: Brasil e Alemanha
+## Time: jaguatirica, capivara, tatu
+## Time: barata, besouro, formiga
+## Disputa: Jogos Olímpicos
